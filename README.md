@@ -17,6 +17,11 @@
 ![image](https://user-images.githubusercontent.com/79818491/147387790-91500525-f740-42e0-9bca-d098778dfa47.png)
 ![image](https://user-images.githubusercontent.com/79818491/147387792-91981735-baf1-4aa9-bc00-d1a4dac2b77d.png)
 
+## 🔧 My Skills...
+![JavaScript-F7DF1E_style=for-the-badge logo=javascript logoColor=black](https://user-images.githubusercontent.com/79818491/147389417-169f8e44-ebdd-4a25-9c09-600f80a6e73c.png)
+![HTML5-E34F26_style=for-the-badge logo=html5 logoColor=white](https://user-images.githubusercontent.com/79818491/147389419-35a079d9-6ac4-4d5c-9749-c11620b1ab2f.png)
+![C%2B%2B-00599C_style=for-the-badge logo=c%2B%2B logoColor=white](https://user-images.githubusercontent.com/79818491/147389421-823a4973-56d8-42d5-bd1f-6eda137e115c.png)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IkigaiHack)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Ikigai_Ht/)  
 
