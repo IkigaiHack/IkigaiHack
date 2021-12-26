@@ -37,6 +37,7 @@ Tube-FF0000_style=for-the-badge logo=youtube logoColor=white](https://user-image
 ![Python-14354C_style=for-the-badge logo=python logoColor=white](https://user-images.githubusercontent.com/79818491/147389438-1898a6b7-1608-40d4-b1b0-c9f247e5f55e.png)
 ![Lua-2C2D72_style=for-the-badge logo=lua logoColor=white](https://user-images.githubusercontent.com/79818491/147389439-e84055d5-48b7-4b12-aa2f-6ac0e874268e.png)
 ![MySQL-00000F_style=for-the-badge logo=mysql logoColor=white](https://user-images.githubusercontent.com/79818491/147389440-6a1e36c9-13ec-427c-8076-65735099d857.png)
+![Java-ED8B00_style=for-the-badge logo=java logoColor=white](https://user-images.githubusercontent.com/79818491/147409207-8ae83b6b-a453-4db1-b736-25667050f713.png)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IkigaiHack)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Ikigai_Ht/)  
