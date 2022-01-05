@@ -40,7 +40,8 @@ Tube-FF0000_style=for-the-badge logo=youtube logoColor=white](https://user-image
 ![Java-ED8B00_style=for-the-badge logo=java logoColor=white](https://user-images.githubusercontent.com/79818491/147409207-8ae83b6b-a453-4db1-b736-25667050f713.png)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IkigaiHack)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Ikigai_Ht/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkigaiHack)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IkigaiHack&show_icons=true)  
 
