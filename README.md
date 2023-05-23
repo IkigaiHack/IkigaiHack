@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Ikigai Modest Menu 
-- I'm Marcel, 18 years old, in the field of creating cheats for games
+- I'm Marcel, 19 years old, in the field of creating Kali Linux scripts
 - Information below ⏬
 
 
