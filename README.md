@@ -1,8 +1,8 @@
 ### Hi there 👋, Marcel (Ikigai)
 
 
-- 🔭 I’m currently working on Ikigai Modest Menu 
-- I'm Marcel, 19 years old, in the field of creating Kali Linux scripts
+- 🔭 I’m currently working on FlipUrLife
+- I'm Marcel, 20 years old, in the field of creating Kali Linux scripts
 - Information below ⏬
 
 
