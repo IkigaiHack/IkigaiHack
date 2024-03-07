@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on FlipUrLife
-- I'm Marcel, 20 years old, in the field of creating Kali Linux scripts
+- I'm Marcel, 20 years old, in the field of creating Kali Linux Tools
 - Information below ⏬
 
 
